@@ -1,4 +1,3 @@
-
 # Student Day Planner
 
 Une application web moderne de planification de journée pour étudiants, réalisée avec React, Vite, TailwindCSS, Lucide-react et Framer Motion.
