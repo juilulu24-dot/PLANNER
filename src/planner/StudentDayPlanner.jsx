@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { CheckSquare, Calendar, User, Home, X } from 'react-feather';
+import { CheckSquare, Calendar, User, Home, X } from 'lucide-react';
 
 const StudentDayPlanner = () => {
   const [activeTab, setActiveTab] = useState('home');
