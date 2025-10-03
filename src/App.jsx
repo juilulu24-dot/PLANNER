@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import StudentDayPlanner from "./planner/StudentDayPlanner";
 import AuthPage from "./planner/pages/AuthPage";
 
+// Force redeploiement Vercel le 3 octobre 2025
+
 export default function App() {
   const [token, setToken] = useState(localStorage.getItem("token") || "");
   const [user, setUser] = useState(null);
